@@ -23,7 +23,7 @@
       disk:
       - size_gb: 1
         type: thin
-        datastore: datastore_vmlabesx001
+        datastore: Datastore_HDD
       hardware:
         memory_mb: 512
         num_cpus: 1
